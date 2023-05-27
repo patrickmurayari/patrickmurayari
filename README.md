@@ -1,6 +1,4 @@
 
-**patrickmurayari/patrickmurayari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### <div align="center">I'm Patrick, a full-time full-stack developer 👨‍💻 working remotely since 2023 🚀</div>
 
 
