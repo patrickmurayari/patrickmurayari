@@ -1,7 +1,9 @@
 
 ### <div align="center">I'm Patrick, a full-time full-stack developer 👨‍💻 working remotely since 2023 🚀</div>
 
-### <div> Soy Patrick Murayari Coronel, un apasionado desarrollador full stack con experiencia en diversas tecnologías y metodologías. Mi enfoque principal se encuentra en el desarrollo web utilizando JavaScript y TypeScript, junto con frameworks como React.js y Redux para crear interfaces de usuario dinámicas y escalables. También tengo experiencia en el desarrollo de servidores utilizando Node.js y Express, y en el diseño y manejo de bases de datos relacionales utilizando Sequelize y PostgreSQL. Soy hábil en la construcción de páginas web con HTML y CSS, y tengo un sólido conocimiento de control de versiones con Git. Además, tengo experiencia trabajando en entornos ágiles utilizando la metodología SCRUM. Estoy emocionado de enfrentar nuevos desafíos y colaborar en proyectos innovadores que impulsen el crecimiento y la excelencia técnica. </div>
+### <div> Soy Patrick Murayari Coronel, un apasionado desarrollador full stack con experiencia en diversas tecnologías y metodologías. Mi enfoque principal se encuentra en el desarrollo web utilizando JavaScript y TypeScript, junto con frameworks como React.js y Redux para crear interfaces de usuario dinámicas y escalables. También tengo experiencia en el desarrollo de servidores utilizando Node.js y Express, y en el diseño y manejo de bases de datos relacionales utilizando Sequelize y PostgreSQL. Soy hábil en la construcción de páginas web con HTML y CSS, y tengo un sólido conocimiento de control de versiones con Git. Además, tengo experiencia trabajando en entornos ágiles utilizando la metodología SCRUM. Estoy emocionado de enfrentar nuevos desafíos y colaborar en proyectos innovadores que impulsen el crecimiento y la excelencia técnica. 
+Si estás interesado en colaborar o tienes alguna consulta, no dudes en contactarme a través de mi correo electrónico: patrickmurayari03@gmail.com</div>
+
 <br/>  
 
 
